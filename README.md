@@ -1,2 +1,2 @@
-# Data-_Structures_Algorithms
-all my learning of DSA 
+# Data_Structures_Algorithms
+all my learning's of DSA 
